@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@material/web": "^1.1.1",
+    "id3-parser": "^3.0.0"
+  }
+}
